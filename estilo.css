@@ -1,0 +1,79 @@
+body
+{
+    background-color: lightblue;
+}
+
+
+
+p.parrafo_amarillo
+{
+    background-color: yellow;
+}
+
+
+
+div 
+{
+    border: black 3px solid; 
+    color: red;
+}
+
+
+
+p
+{
+    color: blue;
+}
+
+
+p#nuevo
+{
+    color: green;
+}
+ 
+
+
+div#viejo 
+{
+    border: black 3px solid;
+    margin: 2px;
+    padding: 2px;
+}
+ 
+
+
+div p#nuevo 
+{
+    color: red;
+}
+ 
+
+
+div#viejo p#nuevo
+{
+    color: black;
+}
+
+
+div.viejo 
+{
+    border: black 3px solid;
+    margin: 2px;
+    padding: 2px;
+}
+ 
+
+
+
+div.viejo p.vell 
+{
+    color: green;
+}
+ 
+
+
+
+div p 
+{
+    color: black;
+}
